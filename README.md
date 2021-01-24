@@ -1,2 +1,2 @@
 # Recriando-jogo-do-dinossauro-sem-internet
-Imprementação de elementos, com HTML, CSS, JAVASCRIPT,  práticando todo o conteúdo estudado durante o  bootcamp. 
+Imprementação de elementos, com HTML, CSS, JAVASCRIPT,  praticando todo o conteúdo estudado durante o  bootcamp. 
